@@ -18,8 +18,9 @@ browser to clear it - see every scraper repo's common.py) - so this uses
 a plain stdlib HTTP request instead of Playwright. No browser install
 step needed in the workflow either.
 
-This repo is a straight copy of the companion Alabama/Alaska/Arizona/Arkansas/California/Colorado/Connecticut repos'
-approach, with the state filter swapped to "DE".
+This repo is a straight copy of the companion Alabama/Alaska/Arizona/Arkansas/
+California/Colorado/Connecticut/Delaware/Florida/Georgia/Hawaii/Idaho/
+Illinois/Indiana repos' approach, with the state filter swapped to "IA".
 """
 from __future__ import annotations
 
